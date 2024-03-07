@@ -28,6 +28,7 @@
 |[10998](https://www.acmicpc.net/problem/10998)|
 |[1008](https://www.acmicpc.net/problem/1008)|
 |[10869](https://www.acmicpc.net/problem/10869)|
+|[10926](https://www.acmicpc.net/problem/10926)|
 
 |11<br>Level|12<br>Level|13<br>Level|14<br>Level|15<br>Level|16<br>Level|17<br>Level|18<br>Level|19<br>Level|20<br>Level|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
