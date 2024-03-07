@@ -1,16 +1,21 @@
-# boj
- 하루에 꾸준히 boj 문제 3개씩 해결하기
+<div align="center">
 
----
+# **Anytime-BOJ**
+**Consistently** solve BOJ problems.
 
-### 언어
-- `cpp`
-- `kotlin`
-- `python`
+<br>
 
----
 
-### 테스트
-```
-python . <문제번호>
-```
+### Profile Link
+|[baekjoon](https://www.acmicpc.net/user/static_backgwa)|[solved.ac](https://solved.ac/profile/static_backgwa)|
+|:-:|:-:|
+
+<br>
+
+### Solving Language
+|`C++`|`Kotlin`|`Python`|
+|:-:|:-:|:-:|
+
+<br>
+
+</div>
