@@ -24,8 +24,8 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |[2557](https://www.acmicpc.net/problem/2557)|[1330](https://www.acmicpc.net/problem/1330)|
 |[1000](https://www.acmicpc.net/problem/1000)|[9498](https://www.acmicpc.net/problem/9498)|
-|[1001](https://www.acmicpc.net/problem/1001)|
-|[10998](https://www.acmicpc.net/problem/10998)|
+|[1001](https://www.acmicpc.net/problem/1001)|[2753](https://www.acmicpc.net/problem/2753)|
+|[10998](https://www.acmicpc.net/problem/10998)|[14681](https://www.acmicpc.net/problem/14681)|
 |[1008](https://www.acmicpc.net/problem/1008)|
 |[10869](https://www.acmicpc.net/problem/10869)|
 |[10926](https://www.acmicpc.net/problem/10926)|
