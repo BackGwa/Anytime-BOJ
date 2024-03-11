@@ -20,7 +20,7 @@
 
 ### Solved Problems
 
-|Level 1<br>✅|Level 2<br>|Level 3<br>|Level 4<br>|Level 5<br>|Level 6<br>|Level 7<br>|Level 8<br>|Level 9<br>|Level 10<br>|
+|Level 1<br>✅|Level 2<br>✅|Level 3<br>|Level 4<br>|Level 5<br>|Level 6<br>|Level 7<br>|Level 8<br>|Level 9<br>|Level 10<br>|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |[2557](https://www.acmicpc.net/problem/2557)|[1330](https://www.acmicpc.net/problem/1330)|
 |[1000](https://www.acmicpc.net/problem/1000)|[9498](https://www.acmicpc.net/problem/9498)|
@@ -28,7 +28,7 @@
 |[10998](https://www.acmicpc.net/problem/10998)|[14681](https://www.acmicpc.net/problem/14681)|
 |[1008](https://www.acmicpc.net/problem/1008)|[2884](https://www.acmicpc.net/problem/2884)|
 |[10869](https://www.acmicpc.net/problem/10869)|[2525](https://www.acmicpc.net/problem/2525)|
-|[10926](https://www.acmicpc.net/problem/10926)|
+|[10926](https://www.acmicpc.net/problem/10926)|[2480](https://www.acmicpc.net/problem/2480)|
 |[18108](https://www.acmicpc.net/problem/18108)|
 |[10430](https://www.acmicpc.net/problem/10430)|
 |[2588](https://www.acmicpc.net/problem/2588)|
