@@ -1,5 +1,5 @@
 fun main() {
-	var x = readLine()!!.split(" ").map() { it.toInt() }
+	var x = readLine()!!.split(" ").map { it.toInt() }
     var y = x[0]
     var z = x[1]
 
