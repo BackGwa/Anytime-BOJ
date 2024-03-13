@@ -25,7 +25,7 @@
 |[2557](https://www.acmicpc.net/problem/2557)|[1330](https://www.acmicpc.net/problem/1330)|[2739](https://www.acmicpc.net/problem/2739)|
 |[1000](https://www.acmicpc.net/problem/1000)|[9498](https://www.acmicpc.net/problem/9498)|[10950](https://www.acmicpc.net/problem/10950)|
 |[1001](https://www.acmicpc.net/problem/1001)|[2753](https://www.acmicpc.net/problem/2753)|[8393](https://www.acmicpc.net/problem/8393)|
-|[10998](https://www.acmicpc.net/problem/10998)|[14681](https://www.acmicpc.net/problem/14681)|
+|[10998](https://www.acmicpc.net/problem/10998)|[14681](https://www.acmicpc.net/problem/14681)|[25304](https://www.acmicpc.net/problem/25304)|
 |[1008](https://www.acmicpc.net/problem/1008)|[2884](https://www.acmicpc.net/problem/2884)|
 |[10869](https://www.acmicpc.net/problem/10869)|[2525](https://www.acmicpc.net/problem/2525)|
 |[10926](https://www.acmicpc.net/problem/10926)|[2480](https://www.acmicpc.net/problem/2480)|
