@@ -18,6 +18,14 @@
 
 <br>
 
+### File Tag
+
+|`None`|`SC`|`AA`|
+|:-:|:-:|:-:|
+|General Answer|Short Coding|Another Answer|
+
+<br>
+
 ### Solved Problems
 
 |Level 1<br>✅|Level 2<br>✅|Level 3<br>|Level 4<br>|Level 5<br>|Level 6<br>|Level 7<br>|Level 8<br>|Level 9<br>|Level 10<br>|
