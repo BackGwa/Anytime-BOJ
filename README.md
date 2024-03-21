@@ -32,7 +32,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |[2557](https://www.acmicpc.net/problem/2557)|[1330](https://www.acmicpc.net/problem/1330)|[2739](https://www.acmicpc.net/problem/2739)|[10807](https://www.acmicpc.net/problem/10807)|
 |[1000](https://www.acmicpc.net/problem/1000)|[9498](https://www.acmicpc.net/problem/9498)|[10950](https://www.acmicpc.net/problem/10950)|[10871](https://www.acmicpc.net/problem/10871)|
-|[1001](https://www.acmicpc.net/problem/1001)|[2753](https://www.acmicpc.net/problem/2753)|[8393](https://www.acmicpc.net/problem/8393)|
+|[1001](https://www.acmicpc.net/problem/1001)|[2753](https://www.acmicpc.net/problem/2753)|[8393](https://www.acmicpc.net/problem/8393)|[10818](https://www.acmicpc.net/problem/10818)|
 |[10998](https://www.acmicpc.net/problem/10998)|[14681](https://www.acmicpc.net/problem/14681)|[25304](https://www.acmicpc.net/problem/25304)|
 |[1008](https://www.acmicpc.net/problem/1008)|[2884](https://www.acmicpc.net/problem/2884)|[25314](https://www.acmicpc.net/problem/25314)|
 |[10869](https://www.acmicpc.net/problem/10869)|[2525](https://www.acmicpc.net/problem/2525)|[15552](https://www.acmicpc.net/problem/15552)|
