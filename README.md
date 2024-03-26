@@ -37,7 +37,7 @@
 |[1008](https://www.acmicpc.net/problem/1008)|[2884](https://www.acmicpc.net/problem/2884)|[25314](https://www.acmicpc.net/problem/25314)|[10810](https://www.acmicpc.net/problem/10810)|
 |[10869](https://www.acmicpc.net/problem/10869)|[2525](https://www.acmicpc.net/problem/2525)|[15552](https://www.acmicpc.net/problem/15552)|[10813](https://www.acmicpc.net/problem/10813)|
 |[10926](https://www.acmicpc.net/problem/10926)|[2480](https://www.acmicpc.net/problem/2480)|[11021](https://www.acmicpc.net/problem/11021)|[5597](https://www.acmicpc.net/problem/5597)|
-|[18108](https://www.acmicpc.net/problem/18108)||[11022](https://www.acmicpc.net/problem/11022)|
+|[18108](https://www.acmicpc.net/problem/18108)||[11022](https://www.acmicpc.net/problem/11022)|[3052](https://www.acmicpc.net/problem/3052)|
 |[10430](https://www.acmicpc.net/problem/10430)||[2438](https://www.acmicpc.net/problem/2438)|
 |[2588](https://www.acmicpc.net/problem/2588)||[2439](https://www.acmicpc.net/problem/2439)|
 |[11382](https://www.acmicpc.net/problem/11382)||[15951](https://www.acmicpc.net/problem/15951)|
