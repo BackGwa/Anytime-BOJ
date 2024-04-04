@@ -1,0 +1,5 @@
+x = list(input())
+x.reverse()
+y = ''.join(x)
+i, j = map(int, y.split())
+print(i if i > j else j)
