@@ -1,0 +1,91 @@
+{
+    "config": {
+        "default": {
+            "auto_complete": false,
+            "multi_build": true,
+            "except_ignore": false,
+            "finally_ignore" : true
+        },
+        "directory": {
+            "path": "**",
+            "recursive": true
+        },
+        "display": {
+            "title": {
+                "content": "# 백준 <param>번 문제",
+                "bold": true,
+                "display": true
+            },
+            "link": {
+                "content": "https://www.acmicpc.net/problem/<param>",
+                "color": "blue",
+                "display": true
+            },
+            "extension": {
+                "content": "<ext>",
+                "bold": true,
+                "display": true
+            }
+        }
+    },
+    "execution": [
+        {
+            "name": "C++",
+            "extension": "cpp",
+            "process": {
+                "build": {
+                    "proc": "g++",
+                    "args": [
+                        "<path>",
+                        "-o",
+                        "tmp.out"
+                    ]
+                },
+                "run": {
+                    "proc": "tmp.out"
+                },
+                "finally": {
+                    "remove": "tmp.out"
+                }
+            }
+        },
+        {
+            "name": "Python",
+            "extension": "py",
+            "process": {
+                "run": {
+                    "proc": "python",
+                    "args": [
+                        "-d",
+                        "<path>"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "Kotiln",
+            "extension": "kt",
+            "process": {
+                "build": {
+                    "proc": "kotlinc",
+                    "args": [
+                        "<path>",
+                        "-include-runtime",
+                        "-d",
+                        "tmp.jar"
+                    ]
+                },
+                "run": {
+                    "proc": "java",
+                    "args": [
+                        "-jar",
+                        "tmp.jar"
+                    ]
+                },
+                "finally": {
+                    "remove": "tmp.jar"
+                }
+            }
+        }
+    ]
+}
