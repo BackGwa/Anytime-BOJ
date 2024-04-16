@@ -6,19 +6,19 @@
 <br>
 
 
-### Profile Link
+### 🔗 Profile Link 🔗
 |[baekjoon](https://www.acmicpc.net/user/static_backgwa)|[solved.ac](https://solved.ac/profile/static_backgwa)|
 |:-:|:-:|
 
 <br>
 
-### Solving Language
+### 🖥️ Solving Language 🖥️
 |`C++`|`Kotlin`|`Python`|
 |:-:|:-:|:-:|
 
 <br>
 
-### File Tag
+### 📁 File Tag 📁
 
 |`None`|`SC`|`AA`|
 |:-:|:-:|:-:|
@@ -26,7 +26,9 @@
 
 <br>
 
-### Solved Problems
+### ✅ Solved Problems ✅
+
+#### 📜 **Standard** 📜
 
 |Level 1<br>✅|Level 2<br>✅|Level 3<br>✅|Level 4<br>✅|Level 5<br>✅|Level 6<br>✅|Level 7<br>|Level 8<br>|Level 9<br>|Level 10<br>|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -45,8 +47,14 @@
 |[10172](https://www.acmicpc.net/problem/10172)||||
 
 
-|Tier<br>Unrated|
+#### 🎖️ **Tier** 🎖️
+
+|Unrated|
 |:-:|
 |[1237](https://www.acmicpc.net/problem/1237)|
+
+|B5|B4|B3|B2|B1|
+|:-:|:-:|:-:|:-:|:-:|
+|[2475](https://www.acmicpc.net/problem/2475)|||[8958](https://www.acmicpc.net/problem/8958)||
 
 </div>
