@@ -55,7 +55,7 @@
 
 |B5|B4|B3|B2|B1|
 |:-:|:-:|:-:|:-:|:-:|
-|[2475](https://www.acmicpc.net/problem/2475)|||[8958](https://www.acmicpc.net/problem/8958)||
+|[2475](https://www.acmicpc.net/problem/2475)||[10250](https://www.acmicpc.net/problem/10250)|[8958](https://www.acmicpc.net/problem/8958)||
 |[2741](https://www.acmicpc.net/problem/2741)|||[2920](https://www.acmicpc.net/problem/2920)||
 ||||[2577](https://www.acmicpc.net/problem/2577)||
 
