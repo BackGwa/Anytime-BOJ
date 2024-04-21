@@ -26,6 +26,14 @@
 
 <br>
 
+### 🏷️ Solved Tag 🏷️
+
+|`None`|`LN`|`LA`|
+|:-:|:-:|:-:|
+|Solved in all languages|Solved for N languages ​​only|Solved in languages ​​other than 3|
+
+<br>
+
 ### ✅ Solved Problems ✅
 
 #### 📜 **Standard** 📜
@@ -56,7 +64,7 @@
 |B5|B4|B3|B2|B1|
 |:-:|:-:|:-:|:-:|:-:|
 |[2475](https://www.acmicpc.net/problem/2475)||[10250](https://www.acmicpc.net/problem/10250)|[8958](https://www.acmicpc.net/problem/8958)||
-|[2741](https://www.acmicpc.net/problem/2741)|||[2920](https://www.acmicpc.net/problem/2920)||
+|[2741](https://www.acmicpc.net/problem/2741)||[4153](https://www.acmicpc.net/problem/4153) (L1)|[2920](https://www.acmicpc.net/problem/2920)||
 ||||[2577](https://www.acmicpc.net/problem/2577)||
 
 </div>
