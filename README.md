@@ -66,5 +66,6 @@
 |[2475](https://www.acmicpc.net/problem/2475)||[10250](https://www.acmicpc.net/problem/10250)|[8958](https://www.acmicpc.net/problem/8958)||
 |[2741](https://www.acmicpc.net/problem/2741)||[4153](https://www.acmicpc.net/problem/4153) (L1)|[2920](https://www.acmicpc.net/problem/2920)||
 |[1271](https://www.acmicpc.net/problem/1271) (L2)|||[2577](https://www.acmicpc.net/problem/2577)||
+|[2338](https://www.acmicpc.net/problem/2338) (L2)|||||
 
 </div>
