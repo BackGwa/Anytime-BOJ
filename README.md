@@ -69,4 +69,8 @@
 |[2338](https://www.acmicpc.net/problem/2338) (L2)|||||
 |[3733](https://www.acmicpc.net/problem/3733) (L1)|||||
 
+|S5|S4|S3|S2|S1|
+|:-:|:-:|:-:|:-:|:-:|
+|[1308](https://www.acmicpc.net/problem/1308) (L1)|||||
+
 </div>
